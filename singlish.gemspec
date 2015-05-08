@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "singlish"
-  s.version = "0.0.0"
+  s.version = "0.0.1"
   s.date = "2015-03-18"
   s.summary = "Singlish from Singapore"
   s.description = "Write Your Ruby Code in Singlish!"
